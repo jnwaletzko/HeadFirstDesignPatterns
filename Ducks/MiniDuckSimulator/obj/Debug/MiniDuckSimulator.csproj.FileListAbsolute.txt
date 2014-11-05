@@ -1,0 +1,8 @@
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\MiniDuckSimulator\bin\Debug\MiniDuckSimulator.exe.config
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\MiniDuckSimulator\obj\Debug\MiniDuckSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\MiniDuckSimulator\bin\Debug\MiniDuckSimulator.exe
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\MiniDuckSimulator\bin\Debug\MiniDuckSimulator.pdb
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\MiniDuckSimulator\bin\Debug\Ducks.dll
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\MiniDuckSimulator\bin\Debug\Ducks.pdb
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\MiniDuckSimulator\obj\Debug\MiniDuckSimulator.exe
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\MiniDuckSimulator\obj\Debug\MiniDuckSimulator.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\Ducks\obj\Debug\Ducks.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\Ducks\bin\Debug\Ducks.dll
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\Ducks\bin\Debug\Ducks.pdb
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\Ducks\obj\Debug\Ducks.dll
+C:\Users\Jake\Documents\GitHub\HeadFirstDesignPatterns\Ducks\Ducks\obj\Debug\Ducks.pdb
